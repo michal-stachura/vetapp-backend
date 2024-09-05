@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=vet_app_backend
+POSTGRES_USER=VQhoEdYusFZLCTzoJSnPsFOBoskAqGgg
+POSTGRES_PASSWORD=a76tJ0Q4cC06kWvbShbqONfEoAG8spO84qs0uQNZXzgzVZwPAtToBytEAvfpBQS6
